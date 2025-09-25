@@ -1,21 +1,62 @@
-﻿ItemID,Category,Item Presentation Name,Vendor,ItemName,PIC SKU ID,LL Item ID,LL Item Name,RetailPrice,Forecast,Exclusivity,Handmade,MadeInUSA,RepeatOrNew,EarlyApproval,ImageURL
-60280,Children,Abrams Books - Roll to Decide: Enchanted Forest Adventure Book,Abrams Books,Roll to Decide: Enchanted Forest Adventure Book,6.03E+11,,,,"$35,000 ",Buyer Exclusive,No,Yes,Repeat,Yes,https://images.uncommongoods.com/images/items/60200/60280_1_1200px.jpg
-59786,Dining,PD-One Roof Global-MLB Sundae Slugger Bowls,PD-One Roof Global,MLB Sundae Slugger Bowls,5.98E+11,,,,"$10,000 ",PD Exclusive,Yes,Yes,Repeat,No,https://images.uncommongoods.com/images/items/59700/59786_1_1200px.jpg
-59662,Accessories ,Good Thomas - The Dog Father Embroidered Hat & Sweatshirt,Good Thomas,The Dog Father Embroidered Sweatshirt,5.97E+11,,,,"$17,000 ",Non-Exclusive,No,Yes,New,Yes,https://images.uncommongoods.com/images/items/59600/59662_1_1200px.jpg
-53220,Apparel ,Luin - Turkish Cotton Spa Dress,IMPORT Luin Oy / Luin Living,Turkish Cotton Spa Dress: Dust,5.32E+11,,,,"$10,000 ",Non-Exclusive,Yes,No,Repeat,Yes,https://images.uncommongoods.com/images/items/53200/53220_1_1200px.jpg
-22272,Art ,PD Custom - Intersection of Love - Photo Print,Northwest Framing,Intersection of Love - Photo Print,2.23E+11,,,,"$20,000 ",PD Exclusive,Yes,Yes,Repeat,No,https://images.uncommongoods.com/images/items/22200/22272_3_1200px.jpg
-60470,Food & Drink ,Make Your Own Hot Sauce Kit,"B & B Brands, LLC",Create Your Own Hot Sauce Kit,6.05E+11,,,,"$15,000 ",Buyer Exclusive,No,Yes,Repeat,No,https://images.uncommongoods.com/images/items/60400/60470_1_1200px.jpg
-61146,Art ,PD Custom - Your Name in a Flower Print,PD Custom Art,Your Name in a Flower Print,6.11E+11,,,,"$100,000 ",PD Exclusive,Yes,Yes,New,No,https://images.uncommongoods.com/images/items/61100/61146_2_1200px.jpg
-59069,Children ,Kidamento - Little Photographer Kids Digital Cameras,Kidamento Inc.,Little Photographer Kids Digital Camera,5.91E+11,,,,"$75,000 ",Non-Exclusive,No,No,Repeat,No,https://images.uncommongoods.com/images/items/59000/59069_1_1200px.jpg
-59368,Dining ,Fox Valley Studios LLC - Sassy Storage Canister,Fox Valley Studios LLC,Sassy Storage Canister: White,5.94E+11,,,,"$5,500 ",Buyer Exclusive,Yes,Yes,Repeat,No,https://images.uncommongoods.com/images/items/59300/59368_1_1200px.jpg
-59376,Drinking ,Modern History Clay Works-Story Cup,"Modern History Clay Works, LLC",Story Cup: Surrounded By Love,5.94E+11,,,,"$23,000 ",PD Exclusive,Yes,Yes,Repeat,No,https://images.uncommongoods.com/images/items/59300/59376_1_1200px.jpg
-53860,Food & Drink ,Do Your Gin - Whiskey Making Kit,Do Your Gin Inc.,Whiskey Making Kit,5.39E+11,,,,"$89,000 ",Non-Exclusive,No,Yes,New,No,https://images.uncommongoods.com/images/items/53800/53860_1_1200px.jpg
-59770,Garden,Songbird Essentials - Owl Wind Chime,Gold Crest (Songbird Essentials / Holland Hill Bird feeders),Owl Wind Chime:  ,5.98E+11,,,,"$55,000 ",Non-Exclusive,Yes,No,Repeat,No,https://images.uncommongoods.com/images/items/59700/59770_1_1200px.jpg
-58851,Garden,IMPORT DCUK - Mushroom Garden Hedgie,IMPORT DCUK,Mushroom Garden Hedgie:  ,5.89E+11,,,,"$20,000 ",PD Exclusive,No,Yes,Repeat,No,https://images.uncommongoods.com/images/items/58800/58851_4_1200px.jpg
-54864,Home Decor ,MJLZ LLC dba Cozy Loft Designs - Personalized Word Search Blanket,MJLZ LLC dba Cozy Loft Designs,Personalized Word Search Throw Blanket,5.49E+11,,,,"$13,000 ",Buyer Exclusive,Yes,Yes,Repeat,Yes,https://images.uncommongoods.com/images/items/54800/54864_1_1200px.jpg
-60127,Home Decor ,Karmic Creations - Swiveling Tea Organizer,Karmic Creations,Swiveling Tea Organizer:  ,6.01E+11,,,,"$16,750 ",PD Exclusive,Yes,Yes,New,No,https://images.uncommongoods.com/images/items/60100/60127_1_1200px.jpg
-51385,Jewelry ,Belart-Birth Month Flower Heart Jewelry,Belart LLC,Birth Month Flower Heart Neckl,5.14E+11,5.41E+11,Birth Month Flower Heart Earri,,"$90,900 ",Non-Exclusive,No,No,Repeat,No,https://images.uncommongoods.com/images/items/51300/51385_1_1200px.jpg
-56028,Jewelry ,Jen Lesea-Ocean Reflections Jewelry ,Jen Lesea,Ocean Reflections Pendant,5.60E+11,,,,"$17,250 ",Buyer Exclusive,Yes,Yes,Repeat,No,https://images.uncommongoods.com/images/items/56000/56028_1_1200px.jpg
-52002,Leisure ,Chronicle - Murder Mystery Puzzle,Chronicle Books,Murder Mystery Puzzle Book,5.20E+11,,,,"$19,750 ",PD Exclusive,No,Yes,Repeat,No,https://images.uncommongoods.com/images/items/52000/52002_1_1200px.jpg
-60097,Leisure ,Well Played LLC - BocceRoll Lawn Game,Well Played LLC,BocceRoll Lawn Game,6.01E+11,,,,"$20,000 ",Non-Exclusive,Yes,Yes,New,No,https://images.uncommongoods.com/images/items/60000/60097_1_1200px.jpg
-43300,Wellness ,Pantuss LLC- Ballerina Herbal Warming Slippers,Pantuss LLC,Ballerina Herbal Warming Slipp,4.33E+11,,,,"$35,000 ",Non-Exclusive,Yes,No,Repeat,Yes,https://images.uncommongoods.com/images/items/43300/43300_1_1200px.jpg
+﻿Category,ItemPresentationName,ItemID1,Item1_SKUs,ItemID2,Item2_SKUs,ItemID3,Item3_SKUs,ItemID4,Item4_SKUs,LL_ItemID1,LL_ItemID2, Forecast ,Status,Comments
+Accessory,The Byrd Golf- Golf Gear Organizer Belt ,61250,612500000000,,,,,,,58323,," $35,000.00 ",Approved,
+Accessory,"Wooden Shoe LLC, DBA Torched Products - Pick Your Pooch Eyeglass Holder",60038,600380000000,,,,,,,,," $10,000.00 ",Approved,
+Accessory,IMPORT JB & Sons- Birth Month Flower Scarf,52551,525510000020; 525510000021; 525510000022,,,,,,,,," $17,000.00 ",Approved,
+Accessory,IMPORT Kutuu - My Otter Half Keychain Set & WYLVD Keychain,60630,606300000000,60631,606310000000,,,,,,," $10,000.00 ",Approved,
+Accessory,CB Station - Waxed Canvas Dopp Kit,61543,615430000000; 615430000001,,,,,,,,," $20,000.00 ",Approved,
+Apparel,Therarobe LLC DBA- Weighted Relaxation Hoodie and Robe,56781,567810000011,56782,567820000000,,,,,,," $15,000.00 ",Approved,
+Apparel,Art Studio Company- Repurposed Sari Fleece Lined Robe,60017,600170000000,,,,,,,,," $100,000.00 ",Submitted,
+Apparel,PD - DRNS Corp. - Embroidered State Flower Sweatshirt,61247,612470000000;612470000005;612470000010; 612470000015;612470000020;612470000025 ,,,,,,,,," $75,000.00 ",Submitted,
+Apparel,Creology- Fully Booked Embroidered Sweatshirt,60177,601770000005,,,,,,,60313,," $5,500.00 ",Submitted,
+Apparel,denise rae - Radiant Peacock Pajamas,61392,613920000000,,,,,,,,," $23,000.00 ",Submitted,
+Art,IMPORT SmashUp Studio- Birth Month Wildlfower Bouquet,56061,560610000000;560610000001;560610000002,,,,,,,,," $89,000.00 ",Submitted,
+Art,PD Intersection of Love - Photo Print,22272,222720000000,,,,,,,,," $55,000.00 ",Submitted,
+Art,Import Aval Glass - Stained Glass Butterflies with a Message,60895,608950000000;60895000002;608950000005,,,,,,,,," $20,000.00 ",Submitted,
+Art,MLB Wall Sculpture Stadium Art,61157,611570000000,,,,,,,,," $13,000.00 ",Submitted,
+Children,Abrams Books - Roll to Decide: Enchanted Forest Adventure Book,60280,602800000000,,,,,,,,," $16,750.00 ",Submitted,
+Children,Kidamento - Little Photographer Kids Digital Camera,59069,590690000000;590690000001,,,,,,,59070,," $90,900.00 ",Submitted,
+Children,Earth Grown KidDoughs - All in One Scented Sensory Dough Play Kit,61395,613950000000; 613950000001; 613950000002,,,,,,,,," $17,250.00 ",Submitted,
+Children,Dr. Zigs - Magical Frozen Bubbles Kit,59045,590450000000,,,,,,,,," $19,750.00 ",Submitted,
+Children,Djeco-US - Gorgeous Greenhouse Musical Treasure Box,59916,599160000000,,,,,,,,," $20,000.00 ",Submitted,
+Children,AirFort - Mushroom Cottage Air Fort,59203,592030000000,,,,,,,56783,," $35,000.00 ",Submitted,
+Dining,PD-One Roof Global-MLB Sundae Slugger Ceramic Ice Cream Bowl Set,59786,597860000010;597860000001;597860000002,,,,,,,,," $5,000.00 ",Not Approved,
+Dining,"PD-IMPORT Chengteh Chinaware (Thailand) Co., Ltd-The Popcorn Bowl with Kernel Sifter",22312,223120000005;223120000006,,,,,,,52384,," $12,000.00 ",Submitted,
+Dining,Trampoline-Serving Palette & Bowls,60392,603920000000,,,,,,,,," $56,000.00 ",Submitted,
+Dining,Prepara-Salad Pod,61238,612380000000,,,,,,,,," $82,000.00 ",Submitted,
+Dining,PD-UG InHouse Manufacturing-Personalized Interlocking Hearts Trivet Set,59550,595500000000,,,,,,,,," $175,000.00 ",Submitted,
+Drinking,"PD-Dynamic World Private Limited-Outdoor Wood Wine Table, Outdoor Wood Beer Table",61242,612420000001;612420000000,61244,612440000001,,,,,,," $35,000.00 ",Submitted,
+Drinking,1000 Oaks Barrel Co-Glass Topper Cocktail Smoker,52786,527860000005,,,,,,,54781,," $59,000.00 ",Submitted,
+Drinking,Raw Rutes-19th Hole Cocktail Stirrers,58206,582060000000,,,,,,,,,,Submitted,
+Drinking,Fly Paper Products-Fowl Language Mugs,60541,605410000000;605410000001,60540,605400000000;605400000001,,,,,,,,Submitted,
+Drinking,Well Told-Etched Marathon Pint Glass,48067,480670000000;480670000001;480670000002,,,,,,,57808,,,Submitted,
+Food/Drink,"PD - B & B Brands, LLC - Create Your Own Hot Sauce Kit",60470,604700000000,,,,,,,61294,,,Submitted,
+Food/Drink,Uncommon Goods  Internal - Olive Oil Dipping Gift Set,58161,581610000000,,,,,,,,,,Submitted,
+Food/Drink,Sugar Plum - Nostalgic Sports Nuts Sampler,59998,599980000000,,,,,,,,,,Submitted,
+Food/Drink,Do Your Gin - Flavored Espresso Martini Gift Set,59531,595310000000,,,,,,,,,,Submitted,
+Food/Drink,Teaspressa - Minute Mimosa Sugar Cube Trio,49534,495340000000,,,,,,,54307,,,Submitted,
+Experiences,UE/ Incraftables- Pet Portrait Painting Class,54786,547860000000,,,,,,,61200,,,Submitted,
+Experiences,"UE/ Clear Visions, Inc.- Love Story and Life Story Mapmaking",54994,549940000000,54993,549930000000,,,,,55137,,,Submitted,
+Experiences,UE/ Whittard of Chelsea Inc- Tea Tasting and Discovery Workshop,60990,609900000000,,,,,,,60380,,,Submitted,
+Garden and Outdoor,PD - Dickinson Woodworking - Grillmaster's Cookout Caddy,60091,600910000000,,,,,,,60711,,,Not Approved,
+Garden and Outdoor,Sea Stones-Garden Ghosts - Set of 3,60407,604070000000,,,,,,,,,,Submitted,
+Garden and Outdoor,IMPORT DCUK-Mushroom Garden Hedgie,58851,588510000000,,,,,,,,,,Submitted,
+Garden and Outdoor,Via Citrus - Grow Anywhere Trees,55930,559300000000,,,,,,,55934,55936,,Submitted,
+Garden and Outdoor,"Chris Crooks - Dinos (T-Rex, Brontosaurus, Velociraptor, Triceratops)",49017,490170000002,51556,515560000002,57607,5.7607E+11,58116,5.8116E+11,,,,Submitted,
+Home Décor,Dock 6 Pottery-Geode State Ornament,50651,506510000000;506510000001;506510000002;506510000003;506510000004,,,,,,,,,,Submitted,
+Home Décor,PD - Dock 6 Pottery-Home Sweet Home Candle,61457,614570000000;614570000001;614570000002,,,,,,,,,,Submitted,
+Home Décor,"Mechanical Design Labs, Inc-Literary Clock",59949,599490000000;599490000001,,,,,,,,,,Submitted,
+Home Décor,New Moon Beginnings - Birth Month Gemstone & Flower Candle,52684,526840000000;526840000001;526840000002,,,,,,,,,,Submitted,
+Home Décor,IMPORT Hemisferium - Desktop Celestial Tide Dial,56345,563450000000;563450000001,,,,,,,52119,,,Submitted,
+Jewelry,Belart-Birth Month Flower Heart Necklace,51385,513850000000;513850000013;513850000003,,,,,,,54105,,,Submitted,
+Jewelry,Brass Botanica-Tiny Tarot Necklace,60762,607620000000,,,,,,,,,,Submitted,
+Jewelry,Shana Gulati-Sliced Raw Diamond Jewelry,51079,510790000000,54841,548410000000,,,,,51751,,,Not Approved,
+Jewelry,Danforth Pewter-Stepping Stone Earrings,60125,601250000000,,,,,,,60123,,,Submitted,
+Leisure,Professor Puzzle - Golf Dartboard,60998,609980000000,,,,,,,,,,Submitted,
+Leisure,PD - Tabletop Cornhole,27131,271310000000,,,,,,,,,,Submitted,
+Leisure,PD - NFL Game Day Bingo,60498,604980000015,,,,,,,,,,Submitted,
+Leisure,Lake Art LLC - Custom Lake Art Cribbage Board,25476,254760000000,,,,,,,54896,55023,,Submitted,
+Leisure,PD - Stratton Binding Corp - My Life Story - So Far,22243,,,,,,,,22400,,,Submitted,
+Wellness,Pantuss LLC- Ballerina Herbal Warming Slippers & Cozy Lavender Booties ,43300,433000000000;433000000013,,,,,,,56694,,,Submitted,
+Wellness,Latika Body Essentials- A Shower Steamer for Every Occasion Gift Set,60484,604840000000,,,,,,,,,,Submitted,
+Wellness,Amarie's Bath Happies and Body Essentials - Cherry Blossom Soap Flower,60775,607750000000,,,,,,,,,,Submitted,
+Wellness,Cherapy - Cherry Pit Therapeutic Heat Pillow,51784,517840000003;517840000008;517840000010;517840000012,,,,,,,,,,Submitted,
